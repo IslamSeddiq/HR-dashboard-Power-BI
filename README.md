@@ -15,7 +15,7 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ### [Power BI](https://drive.google.com/file/d/18yowKepC63u4gdBKqbEQcnj8Rf7JNxRo/view?usp=drive_link)
 
-## Featured Project 💻
+## About Project 💻
 
 [HR-dashboard-Power-BI] This project aims to leverage HR data analytics to uncover actionable insights across key areas of the employee lifecycle, helping the company improve retention, diversity, performance management, and overall employee satisfaction. The insights from this project will enable HR and company leadership to make informed decisions about workforce planning, leadership development, compensation policies, DEI (diversity, equity, inclusion), and employee well-being strategies. This project demonstrates my ability to use Power BI effectively.
 
