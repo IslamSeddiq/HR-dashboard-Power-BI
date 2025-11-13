@@ -11,9 +11,9 @@ I'm a Junior Data Analyst with a passion for turning raw data into actionable in
 
 ## My Skills 🧠
 
-### [Python(data cleaning)](https://colab.research.google.com/drive/1t2D_ldG4bE5-txy5nZHPc0D3FK86h8nU?usp=drive_link)
+**Python(data cleaning)**
 
-### [Power BI](https://drive.google.com/file/d/18yowKepC63u4gdBKqbEQcnj8Rf7JNxRo/view?usp=drive_link)
+**Power BI**
 
 ## About Project 💻
 
